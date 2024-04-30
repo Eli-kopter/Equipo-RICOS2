@@ -1,3 +1,4 @@
+/*
 Title: Hola Mundo en Raspberry Pi Pico W   
 Filename: holaMundo
 Autor: Abraham García
@@ -5,6 +6,7 @@ Date: 19/03/2024
 Description: Impresión de Hola Mundo
 Imput: -
 Ouput: Hola Mundo
+*/
 
 ´´´
 void setup() {
