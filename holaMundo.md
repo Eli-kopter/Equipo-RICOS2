@@ -17,3 +17,5 @@ void loop() {
   Serial.println("Hola Mundo");
   delay(1000); // Esperar un segundo
 }
+
+![image](https://github.com/Eli-kopter/Equipo-RICOS2/assets/158227726/2fd7e494-bd09-44d3-8813-b1ea7c94e39a)
