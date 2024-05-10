@@ -1,5 +1,15 @@
 
 ```
+/*
+Title: 3.4 Practica 2: OLED display mensaje   
+Filename: OLEDdisplay
+Autor: Abraham García
+Date: 07/05/2024
+Description: Desplegar un Mensaje o icono en un Display OLED
+Imput: -
+Ouput: Somos Abraham, Manuel, Iván y América. Helou
+*/
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
