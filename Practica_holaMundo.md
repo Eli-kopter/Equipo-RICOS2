@@ -10,7 +10,6 @@ Imput: -
 Ouput: Hola Mundo
 */
 
-´´´
 void setup() {
   // Inicializar comunicación serial
   Serial.begin(115200);
