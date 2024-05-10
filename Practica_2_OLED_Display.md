@@ -1,3 +1,5 @@
+
+```
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
@@ -27,6 +29,6 @@ void setup() {
 void loop() {
   
 }
-
+```
 
 ![WhatsApp Image 2024-05-07 at 3 41 23 PM](https://github.com/Eli-kopter/Equipo-RICOS2/assets/158227726/a7173cbb-a3fd-4cac-aafb-376ed61f0f6f)
