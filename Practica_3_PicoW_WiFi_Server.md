@@ -40,6 +40,6 @@ void setup() {
 void loop() {
   // Aquí va el código principal
 }
-
 ```
-![wIFISERVER](https://i.imgur.com/mzHZzR5.png)
+
+![imagen](https://i.imgur.com/mzHZzR5.png)
