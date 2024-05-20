@@ -19,10 +19,10 @@ Docente:
 M.C. Rene Solis Reyes 
 
 Unidad:
-1
+Final
 
 Título del trabajo:
-Manipulación de memoria y arrays
+Repositorio Evaluacion final
 
 Estudiantes:
 América Elizabeth Zavaleta Ramirez
