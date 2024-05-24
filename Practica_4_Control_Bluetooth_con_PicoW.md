@@ -85,3 +85,7 @@ int gattWriteCallback(uint16_t value_handle, uint8_t *buffer, uint16_t size) {
 /* LISTING_END(LEPeripheralWriteCallback): Write Callback */
 
 ```
+![image](https://github.com/Eli-kopter/Equipo-RICOS2/assets/158106662/9685379f-bae0-4820-a6f0-c802d1287d70)
+![image](https://github.com/Eli-kopter/Equipo-RICOS2/assets/158106662/c382fde5-a821-4c87-8e47-4a7f81943cf1)
+
+
